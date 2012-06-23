@@ -1,0 +1,26 @@
+﻿@charset "UTF-8";
+
+	body{
+		background: black;
+	}
+	#container{
+		background: rgba(240,240,240,0.8); 
+		text-align:center;
+		width: 800px;
+		height: auto;
+		padding:10px;
+	}
+	.center{
+		margin:0px auto;
+	}
+	#content{
+		background-color: rgba(240,240,240,0.8);
+		width: 80%;
+		height: 70%;
+		border-radius:20px;
+		padding:20px;
+	}
+
+
+
+
